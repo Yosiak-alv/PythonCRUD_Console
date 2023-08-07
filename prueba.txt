@@ -1,0 +1,8 @@
+
+        {
+        "Nombre": "Antonio",
+        "Edad": 20,
+        "Telefono": 78085392,
+        "Casado": false
+    }
+    
